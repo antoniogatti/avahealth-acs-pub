@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="671" height="138" viewBox="0 0 671 138">
+  <g id="Group_511" data-name="Group 511" transform="translate(-65 -306)">
+    <text id="he_lth" data-name="he   lth" transform="translate(254 421)" fill="#02143c" font-size="120" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="0" y="0" xml:space="preserve">he   lth</tspan></text>
+    <text id="ava" transform="translate(65 421)" fill="#02143c" font-size="120" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">ava</tspan></text>
+    <text id="_365" data-name="365" transform="translate(643 356)" fill="#f3333c" font-size="54" font-family="Ubuntu-Medium, Ubuntu" font-weight="500"><tspan x="0" y="0">365</tspan></text>
+    <g id="star" transform="translate(406.238 362.855)">
+      <g id="Group_506" data-name="Group 506" transform="translate(9.992)">
+        <path id="Path_771" data-name="Path 771" d="M73.539,43.473,59.295,33.5l14.244-9.974a1.962,1.962,0,0,0,.483-2.733L65.017,7.929a1.964,1.964,0,0,0-2.734-.483L52,14.647V1.963A1.962,1.962,0,0,0,50.036,0h-15.7A1.962,1.962,0,0,0,32.37,1.963V14.647l-10.284-7.2a1.964,1.964,0,0,0-2.734.483L10.347,20.793a1.963,1.963,0,0,0,.483,2.734L25.074,33.5,10.83,43.474a1.962,1.962,0,0,0-.483,2.734l9.005,12.864a1.96,1.96,0,0,0,1.267.807,1.9,1.9,0,0,0,1.466-.324l10.284-7.2V65.037A1.962,1.962,0,0,0,34.333,67h15.7A1.962,1.962,0,0,0,52,65.037V52.353l10.284,7.2a1.91,1.91,0,0,0,1.466.324,1.961,1.961,0,0,0,1.267-.807l9.005-12.864A1.963,1.963,0,0,0,73.539,43.473Z" transform="translate(-19.992 -6.855)" fill="#f3333c"/>
+      </g>
+    </g>
+  </g>
+</svg>
